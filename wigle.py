@@ -16,8 +16,8 @@ if len(sys.argv)<2:
 	print "Faltaron parametros, recuerde python wigle.py ssid netid"
 	sys.exit(2)
 
-username = 'rodrwan'
-password = 'rodrigo1987'
+username = 'user_wigle'
+password = 'pass_wigle'
 
 ssid = sys.argv[1] # ssid a buscar
 netid = sys.argv[2] # net id a buscar
